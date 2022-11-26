@@ -1,0 +1,115 @@
+.logo-loja{
+   width: 330px;
+   height: 200;
+
+}
+.ofertas{
+    color:black;
+}
+.ofer1{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer2{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer3{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer4{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer5{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer6{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer7{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer8{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer9{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.ofer10{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.oferta{
+    color:black;
+}
+.des1{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.des2{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.des3{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.des4{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.des5{
+    margin:2% 2%;
+    width:15%;
+    height: 200px;
+}
+.logo-loja1{
+    width: 330px;
+    height: 200;
+ 
+ }
+ @media screen and (max-width: 768px) {
+    nav li {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    footer p {
+        display: none;
+    }
+ }
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
